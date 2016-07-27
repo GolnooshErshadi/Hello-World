@@ -1,2 +1,5 @@
 # Hello-World
-Just first try
+
+Hi There !
+
+Gol here, I like C# and Java for mob web app.
